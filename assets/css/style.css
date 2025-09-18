@@ -1600,6 +1600,7 @@ button.theme-btn.search-toggler:hover {
 	-webkit-transform: translateY(0px);
 	-ms-transform: translateY(0px);
 	transform: translateY(0px);
+	font-size: 55px;
 }
 .banner-section h4 {
 	position: relative;
