@@ -3929,6 +3929,7 @@ ul.filter-tabs li:hover, ul.filter-tabs li.active {
 	.event-1-block {
 		flex-wrap: wrap;
 	}
+	.about-2-video-area{display: none;}
 	.event-1-image {
 		margin-bottom: 20px;
 	}
